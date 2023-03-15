@@ -1,0 +1,10 @@
+1, Tapoi
+2, Tapoioioi
+3, Baciu
+4, Tapy
+5, Cont
+6, Turcu
+7, Rus
+8, Pop
+9, Joaca-Bine
+10, Tapoy

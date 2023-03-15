@@ -1,0 +1,10 @@
+1, ASC
+2, LC
+3, Analysis
+4, Algebra
+5, Sport
+6, C
+7, C++
+8, Python2
+9, Python3
+10, C#
